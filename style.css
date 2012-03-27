@@ -1,0 +1,25 @@
+@charset "windows-1251";
+/* CSS Document */
+
+body{ background-color: #000066; margin:0; padding:0;}
+.body{ background-color: #000000; padding:0; margin:0;}
+.main_border{border:1px solid #000000; width:700; border:0; bgcolor:#FFFFFF; cellspacing:0; cellpading:0; margin:auto;}
+.news{ background-color: #999999; padding:15px; margin:0; }
+.news2{ background-color: #0066FF; font-size:13px;}
+.left{ font-family: Verdana, Arial; background-color: #33CC33; padding:5px; width:180px;}
+a{color:#FFFFFF; font-size:18px; text-decoration:none;}
+.users{ color: #990000; font-size:12px;}
+.header{ padding:0; margin:0; width:702px; height:100px;}
+.footer{ padding:0; margin:0; width:702px; height:15px;}
+ 
+.users2{ font-family:Geneva; font-size:24px; color:#FFFFFF; padding-left:20px;}
+.left2{ border:1px solid; background-color: #006699;}
+.left3{ border:1px solid; background-color: #FF0000;}
+
+.form{ background-color: #00FF66;}
+.form1{margin-left:100px;}
+.zagol{ margin-left:300px; font-size:18px;}
+.width{width:510px;}
+label{ cursor: pointer;}
+.td1{ vertical-align:top;}
+.td2{
